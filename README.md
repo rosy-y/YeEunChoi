@@ -1,2 +1,2 @@
-# YeeunChoi
+# YeEunChoi
 meta_file
