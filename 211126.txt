@@ -1,5 +1,0 @@
-21/11/26
-Git https://git-scm.com/
-Github https://git-scm.com/
-Git Large File Storage https://git-lfs.github.com/
-Sourcetree https://www.sourcetreeapp.com/
